@@ -18,3 +18,4 @@ I work across the stack — Python, TypeScript, and Go on the backend (FastAPI, 
 When I'm not shipping code, I'm probably reading about distributed systems, security tooling, or satellite data.
 
 [LinkedIn](https://linkedin.com/in/harsh-kumar-08a124169) · [Email](mailto:hkumar8897@gmail.com)
+
