@@ -1,8 +1,8 @@
 ### Hey, I'm Harsh
 
-I'm a software engineer based in India. I've spent the last 5+ years building production SaaS platforms and AI systems.
+I'm a software engineer. I've spent the last 6+ years building production SaaS platforms and AI systems.
 
-Right now I'm at **[Klarety AI](https://klarety.ai)** where I built the platform from the ground up. It's an AI-powered geospatial intelligence system — users ask questions in plain English and autonomous agents analyze satellite imagery for them. It's used by Yale for research, and serves hedge funds, insurance companies, and government agencies.
+Right now I'm at **[Klarety AI](https://klarety.ai)** where I built the platform from the ground up. It's an AI-powered geospatial intelligence system - users ask questions in plain English and autonomous agents analyze satellite imagery for them. It's used by Yale for research, and serves hedge funds, insurance companies, and government agencies.
 
 Some things I've worked on:
 
