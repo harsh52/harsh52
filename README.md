@@ -6,6 +6,7 @@ Right now I'm at **[Klarety AI](https://klarety.ai)** where I built the platform
 
 Some things I've worked on:
 
+- Microservices Integration: Designed and deployed scalable microservices architecture, enhancing system reliability and enabling integration of diverse technology stacks.
 - A tiling server handling millions of requests/min - 50% faster than Felt/Atlas, cut database load by 90% with PMTiles
 - LLM agent systems with rolling context summarization and semantic filtering (60% better query correlation, fewer hallucinations)
 - Geospatial pipelines across 10+ satellite data sources (Sentinel-1/2, Landsat, MODIS, NAIP, Google Earth Engine)
